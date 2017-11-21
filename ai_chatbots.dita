@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="ai_chatbots">
+    <title>A Brief Lesson on Artifical Intelligence and Chatbots</title>
+    <conbody>
+        <p>You may be asking: what on <i>earth </i>is a chatbot? What is AI? Can I trust them? </p>
+        <p>In short: Artificial Intelligence (AI) chatbots (bots) are an interactive, real-time
+            responsive piece of code that allow a consumer (you!) to interact with a database of
+            knowledge and responses. </p>
+        <p>There are two kinds of chatbots: bots that use a natural language processing system, or
+            chatbots that utilize keywords and databases. Gwen is the latter, as she uses
+            information gathered and stored on a database, and pulls from metadata tags (more on
+            that later). Our tags and answers are monitored daily by trained IT professionals and
+            board-certified nurse practitioners, so you can rest easy knowing the best and brightest
+            have your health and safety in mind.</p>
+        <p>When Gwen is asked a question, it will go into her database of questions, and tagged with
+            something called metadata. Metadata are like little invisible hashtags that allow Gwen -
+            and her developers - to quickly tag information and drop it into buckets of information;
+            Gwen these retrieves information from those buckets and gives it to you. </p>
+        <p>So, the more you talk to Gwen, the smarter she gets. The smarter she gets, the faster you
+            get information!</p>
+        <p>While chatbots have grown up since their first appearance in the 1960s, there's still
+            plenty of work to be done. Bots today strive to pass <xref
+                href="http://www.turing.org.uk/scrapbook/test.html" format="html" scope="external"
+                >the Turing test</xref>, or a test that measures a machine's ability to exhibit
+            smart behavior. Language, emotion, and reasoning are all future developments for AI bots
+            - and Gwen is no exception. We are working daily to make her smarter, work harder, and
+            be more personable. </p>
+    </conbody>
+</concept>

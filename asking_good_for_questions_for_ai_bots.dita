@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="asking_good_for_questions_for_ai_bots">
+    <title>Asking Good Questions for Chatbots</title>
+    <conbody>
+        <p>Asking Gwen certain kinds of questions will produce better answers; better questions lead
+            to more intelligence; more intelligence means a more reliable, trustworthy bot. In a lot
+            of ways, Gwen is built by the user, and for the user. </p>
+        <p>But what kinds of questions <i>can </i>Gwen answer? Well, in short: anything. But, some
+            questions won't get relevant answers. For example, if you ask Gwen how to make Beef
+            Wellington, she's probably not going to be helpful. But, if you ask her where your
+            nearest pharmacy is, <i>then </i>she will be helpful! </p>
+        <p>Whenever you ask Gwen a question, <b>try your best to make it healthcare related.
+            </b>Gwen is a bot built for virtuwell consumers seen in the online clinic. So, Gwen's
+            niche is healthcare! </p>
+        <p>Now, there are two kinds of of good questions: </p>
+        <p><b>Open-Ended Questions.</b>Questions that are open-ended are questions that cannot be
+            answered with yes/no answers, and require more detail. A good place to start with Gwen
+            would be questions starting with "who, what, when, where, and why." As these are broad
+            categories, Gwen can quickly dive into each category and start looing for answers.</p>
+        <p>
+            <ul id="ul_e4k_lwf_ybb">
+                <li><i>"Where is the nearest Walgreens in zip code 55116?"</i></li>
+                <li><i>"What is a Z-pack?"</i></li>
+                <li><i>"Why am I not getting my antibiotic?"</i></li>
+            </ul>
+        </p>
+        <p><b>Close-Ended Questions. </b>Close-ended questions can be answered with yes/no - think
+            the questions you'd ask a good old Magic 8 ball. Gwen is really quick when it comes to
+            picking up on these - and she's a little more detailed than a Magic 8 ball. If you ask a
+            question that can be answered with yes or no, you'll be narrowing down content in Gwen's
+            database from which she can pull. </p>
+        <p>
+            <ul id="ul_vj2_rwf_ybb">
+                <li><i>"Gwen, tell me about pink eye; is it contagious?"</i></li>
+                <li><i>"Do I need to be worried about taking Amoxicillin if I'm
+                    breastfeeding?"</i></li>
+                <li><i>"Are you open on Christmas Day?"</i></li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

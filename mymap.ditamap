@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>virtuwell's Gwen: Version 1.0 Operating Guide</title>
+    <topicref href="operating_gwen.dita"/>
+    <topicref href="operating_gwen2.dita"/>
+    <topicref href="ai_chatbots.dita"/>
+    <topicref href="asking_good_for_questions_for_ai_bots.dita"/>
+    <topicref href="telehealth.dita"/>
+</map>

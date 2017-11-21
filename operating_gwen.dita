@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="operating_gwen">
+    <title>Welcome to the Future of Convenient, Safe Care.</title>
+    <taskbody>
+        <context>The following guide will help you better understand how to operate Gwen to get
+            helpful, efficient, and smart answers to your questions. Artificial Intelligence, or AI,
+            might seem daunting at first, but don't worry - with time and some practice, you'll be
+            able to have Gwen on call and at your fingertips whenever you might need her. <p>For an
+                optimal experience, we recommend you read this guide before using Gwen. If you have
+                any questions or concerns regarding Gwen, please call our experience team at <xref
+                    href="tel:1-877-440-1001" format="" scope="external">1-877-440-1001</xref>. We
+                are here 24/7, 365 days a year. You can also shoot us an email:<xref
+                    href="mailto:experience@virtuwell.com" format="html" scope="external"
+                    >experience@virtuwell.com</xref>. </p></context>
+    </taskbody>
+</task>

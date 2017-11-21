@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="telehealth">
+    <title>Telehealth and Security: What You Need to Know</title>
+    <conbody>
+        <p>Telehealth is an exciting, innovative field that is bringing faster, more accurate care
+            to more places than ever before. But with telehealth and the internet comes a risk of
+            information being compromised. That's the nature of the internet - but we're here to
+            make sure you are safe, healthy, and happy. </p>
+        <p>Like any website, there is a risk of information being hacked or accessed. At virtuwell,
+            we take your security very seriously and make it a critical part of our mission to keep
+            it safe. You can view our Privacy Policy by going to virtuwell.com and scrolling to the
+            bottom of the screen. </p>
+        <p>With Gwen, we don't actually need any of your personal information - so there's no need
+            to enter it. But, if you do, we automatically remove it from our caches and databases
+            using a tagging system. When it's tagged, we go in and delete any personal health
+            information (PHI). We keep the great questions you ask - but none of it is traceable to
+            you, your IP address, or location. </p>
+        <p>The only thing we keep from  your conversation is the information you want us to keep.
+            When you exit Gwen, you have the option to "submit chat." When you do, your questions
+            (minus the PHI) are submitted, tagged, and added to her knowledge base. The knowledge
+            base is regularly monitored by our team, so the answers are as accurate as possible. If
+            you don't want to share your chat with Gwen's database, simple say "no" or exit out of
+            the bot. Done! Nothing is saved locally or externally. </p>
+        <p>Of course, if you have questions, give us a call at <xref href="tel:1-877-440-1001"
+                format="" scope="external">1-877-440-1001</xref> or email us at <xref
+                href="mailto:experience@virtuwell.com" format="html" scope="external"
+                >experience@virtuwell.com</xref>. We're here 24/7/365 for you.</p>
+    </conbody>
+</concept>
